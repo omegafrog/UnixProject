@@ -1,2 +1,9 @@
 chatlog
 obj/**
+client1
+
+client1_debug
+client2
+client2_debug
+server
+server_debug
